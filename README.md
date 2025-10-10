@@ -46,9 +46,6 @@ import json
 from typing import Tuple, Optional, Dict, Any
 import bcrypt
 
-# [Full code from previous response...]
-```
-
 2. **Basic usage:**
 ```python
 from secure_auth import SecureAuthSystem
